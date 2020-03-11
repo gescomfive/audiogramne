@@ -90,7 +90,7 @@
     "foregroundColor": "#c02942",
     "pattern": "pixel"
   },
-  "Square with background image": {
+  "Antenna": {
     "width": 640,
     "height": 640,
     "samplesPerFrame": 64,
@@ -100,6 +100,6 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "backgroundImage": "Antennalogocolourlandscape.png"
   }
 }
